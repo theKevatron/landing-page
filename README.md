@@ -4,7 +4,7 @@ A simple web layout built as a practice project for [The Odin Project Foundation
 
 ## Live Preview
 You can view the live, responsive deployment page here:
-👉 [https://github.io]([https://github.io](https://thekevatron.github.io/landing-page/))
+👉 [https://github.io](https://thekevatron.github.io/landing-page/)
 
 ## Key Takeaways
 - Structuring layout divisions with pure HTML5
